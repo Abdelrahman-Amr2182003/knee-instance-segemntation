@@ -1,4 +1,4 @@
-- run the traing code on google colab
+- run the traing code on google colab and dont forget to upload the imgs.zip and data.json with it
 
 - copy the trained model and the coc pretrained model into your main directory 
 
